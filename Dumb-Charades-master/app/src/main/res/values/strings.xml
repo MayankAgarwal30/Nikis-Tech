@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Dumb-Charades</string>
+    <string name="skip">Skip</string>
+    <string name="play_again">Play Again</string>
+    <string name="share_score">Share Score</string>
+    <string name="you_scored">You Scored</string>
+    <string name="title_text">guess the word!</string>
+    <string name="play_button">Play</string>
+    <string name="get_ready">Get ready to</string>
+    <string name="got_it">Got it</string>
+    <string name="end_game">End game</string>
+    <string name="word_is">The word is…</string>
+    <string name="quote_format">\"%s\"</string>
+    <string name="score_format">Current Score: %d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_button">Movie</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="template_movie_description">The story and characters
+        you know and love come to spectacular life in the live-action
+        adaption of Disney\'s animated classic Beauty and the Beast.</string>
+    <string name="content_description_hero_image">Hero Image</string>
+    <string name="content_description_poster">Movie Poster Image</string>
+    <string name="template_movie_title">Beauty and the Beast</string>
+    <string name="template_movie_details">March 2017 PG 129 minutes</string>
+    <string name="content_description_add_playlist">Add to watchlist</string>
+    <string name="template_number_ratings">242 ratings</string>
+    <string name="template_movie_genre">Family</string>
+    <string name="template_rotten_tomato_rating">71%</string>
+    <string name="template_similar">Similar</string>
+    <string name="rent">Rent from R29.99</string>
+    <string name="buy">Buy from R129.99</string>
+
+
+    <string name="login_text">LOG IN</string>
+    <string name="sign_up_text">SIGN UP</string>
+    <string name="email_id">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="forgot_pwd">Forgot password?</string>
+
+    <!--For Direct Share-->
+    <string name="send_intent_title">Send message</string>
+    <string name="explanation">
+        This app demonstrates how to implement Direct Share. Use some other app and share a text.
+        For your convenience, you can also use the input below to share the text.
+    </string>
+    <string name="text_to_share">Text to share</string>
+    <string name="hello">Hello!</string>
+    <string name="share">Share</string>
+
+    <!-- SendMessageActivity -->
+
+    <string name="sending_message">Sending a message</string>
+    <string name="to">To:</string>
+    <string name="send">Send</string>
+    <string name="body">Body:</string>
+    <string name="hint_body">Edit your message</string>
+    <string name="message_sent">Sent a message \"%1$s\" to %2$s</string>
+</resources>
